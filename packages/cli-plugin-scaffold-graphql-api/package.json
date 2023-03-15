@@ -17,7 +17,7 @@
   "homepage": "https://github.com/webiny/webiny-js#readme",
   "dependencies": {
     "@webiny/cli": "^5.22.1",
-    "@webiny/cli-plugin-deploy-pulumi": "^5.22.1",
+    "@webiny/cli-plugin-deploy-pulumi": "^5.34.6",
     "@webiny/cli-plugin-scaffold": "^5.22.1",
     "@webiny/error": "^5.22.1",
     "case": "^1.6.3",

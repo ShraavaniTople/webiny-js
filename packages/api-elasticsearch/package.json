@@ -16,9 +16,9 @@
     "@webiny/error": "^5.22.1",
     "@webiny/handler": "^5.22.1",
     "@webiny/plugins": "^5.22.1",
-    "@webiny/utils": "^5.22.1",
+    "@webiny/utils": "^5.16.0",
     "aws-elasticsearch-connector": "^9.0.0",
-    "aws-sdk": "^2.971.0",
+    "aws-sdk": "^2.1354.0",
     "elastic-ts": "^0.7.0"
   },
   "devDependencies": {

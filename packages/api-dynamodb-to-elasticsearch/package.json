@@ -12,10 +12,10 @@
   "author": "Webiny Ltd.",
   "dependencies": {
     "@babel/runtime": "^7.16.3",
-    "@webiny/api-elasticsearch": "^5.22.1",
+    "@webiny/api-elasticsearch": "^5.10.0",
     "@webiny/error": "^5.22.1",
     "@webiny/handler": "^5.22.1",
-    "aws-sdk": "^2.971.0"
+    "aws-sdk": "^2.1354.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",

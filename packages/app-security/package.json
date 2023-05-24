@@ -13,7 +13,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@webiny/app": "^5.22.1",
+    "@webiny/app": "^0.1.0",
     "@webiny/app-admin-core": "^5.22.1",
     "@webiny/plugins": "^5.22.1",
     "minimatch": "^3.0.4",

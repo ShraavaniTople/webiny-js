@@ -31,7 +31,7 @@
     "pluralize": "^8.0.0",
     "replace-in-path": "^1.1.0",
     "validate-npm-package-name": "^3.0.0",
-    "write-json-file": "^4.3.0"
+    "write-json-file": "^5.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",

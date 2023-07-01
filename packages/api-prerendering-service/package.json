@@ -19,7 +19,7 @@
     "@webiny/error": "^5.22.1",
     "@webiny/handler": "^5.22.1",
     "@webiny/handler-args": "^5.22.1",
-    "@webiny/handler-client": "^5.22.1",
+    "@webiny/handler-client": "^5.0.0",
     "@webiny/plugins": "^5.22.1",
     "chrome-aws-lambda": "^5.5.0",
     "dot-prop": "^6.0.1",

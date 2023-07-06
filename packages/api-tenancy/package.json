@@ -18,7 +18,7 @@
     "@webiny/handler-db": "^5.22.1",
     "@webiny/handler-graphql": "^5.22.1",
     "@webiny/handler-http": "^5.22.1",
-    "@webiny/pubsub": "^5.22.1",
+    "@webiny/pubsub": "^5.16.0",
     "dataloader": "^2.0.0",
     "mdbid": "^1.0.0"
   },

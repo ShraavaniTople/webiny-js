@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "@webiny/api-authentication": "^5.22.1",
-    "@webiny/api-cognito-authenticator": "^5.22.1",
+    "@webiny/api-cognito-authenticator": "^5.37.2",
     "@webiny/handler": "^5.22.1"
   },
   "devDependencies": {

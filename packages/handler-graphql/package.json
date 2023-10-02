@@ -19,7 +19,7 @@
     "@webiny/error": "^5.22.1",
     "@webiny/handler": "^5.22.1",
     "@webiny/handler-http": "^5.22.1",
-    "@webiny/plugins": "^5.22.1",
+    "@webiny/plugins": "^0.1.0",
     "@webiny/utils": "^5.22.1",
     "boolean": "^3.0.1",
     "graphql": "^15.7.2",

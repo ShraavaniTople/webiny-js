@@ -19,7 +19,7 @@
     "@emotion/styled": "^10.0.27",
     "@types/react": "^16.14.0",
     "@webiny/app": "^5.22.1",
-    "@webiny/app-admin": "^5.22.1",
+    "@webiny/app-admin": "^0.1.0",
     "@webiny/app-security": "^5.22.1",
     "@webiny/form": "^5.22.1",
     "@webiny/plugins": "^5.22.1",

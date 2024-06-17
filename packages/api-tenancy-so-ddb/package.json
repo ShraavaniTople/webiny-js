@@ -16,8 +16,8 @@
   "author": "Webiny Ltd.",
   "license": "MIT",
   "dependencies": {
-    "@webiny/api-tenancy": "^5.22.1",
-    "@webiny/db-dynamodb": "^5.22.1",
+    "@webiny/api-tenancy": "^5.9.0",
+    "@webiny/db-dynamodb": "^5.0.0",
     "@webiny/error": "^5.22.1",
     "dynamodb-toolbox": "^0.3.4"
   },

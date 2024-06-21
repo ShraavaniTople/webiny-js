@@ -25,7 +25,7 @@
     "@webiny/form": "^5.22.1",
     "@webiny/plugins": "^5.22.1",
     "@webiny/react-router": "^5.22.1",
-    "@webiny/telemetry": "^5.22.1",
+    "@webiny/telemetry": "^5.40.0",
     "@webiny/ui": "^5.22.1",
     "@webiny/ui-composer": "^5.22.1",
     "@webiny/validation": "^5.22.1",

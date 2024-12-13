@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@webiny/cli": "^5.22.1",
-    "@webiny/cli-plugin-deploy-pulumi": "^5.22.1",
+    "@webiny/cli-plugin-deploy-pulumi": "^5.0.0",
     "chalk": "4.1.0",
     "execa": "4.1.0",
     "fast-glob": "3.2.7",

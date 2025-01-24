@@ -17,7 +17,7 @@
     "@webiny/app": "^5.22.1",
     "@webiny/app-admin": "^5.22.1",
     "@webiny/app-security": "^5.22.1",
-    "@webiny/app-tenancy": "^5.22.1",
+    "@webiny/app-tenancy": "^5.42.0",
     "@webiny/form": "^5.22.1",
     "@webiny/react-router": "^5.22.1",
     "@webiny/ui": "^5.22.1",

@@ -11,9 +11,9 @@
   "author": "Webiny Ltd.",
   "license": "MIT",
   "dependencies": {
-    "@babel/runtime": "^7.16.3",
-    "@webiny/handler": "^5.22.1",
-    "@webiny/handler-http": "^5.22.1"
+    "@babel/runtime": "^7.26.10",
+    "@webiny/handler": "^5.42.0",
+    "@webiny/handler-http": "^5.31.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",

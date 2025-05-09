@@ -11,9 +11,9 @@
   "description": "A set of upgrade utils, plugins and types.",
   "author": "Webiny Ltd.",
   "dependencies": {
-    "@babel/runtime": "^7.16.3",
+    "@babel/runtime": "^7.26.10",
     "@webiny/error": "^5.22.1",
-    "@webiny/handler": "^5.22.1",
+    "@webiny/handler": "^5.42.0",
     "@webiny/plugins": "^5.22.1",
     "semver": "^7.3.4"
   },

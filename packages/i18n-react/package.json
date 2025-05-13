@@ -14,8 +14,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@babel/runtime": "^7.16.3",
-    "@webiny/i18n": "^5.22.1",
+    "@babel/runtime": "^7.26.10",
+    "@webiny/i18n": "^5.42.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {

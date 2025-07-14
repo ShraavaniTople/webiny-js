@@ -8,7 +8,7 @@
   "dependencies": {
     "@webiny/api-prerendering-service": "^5.22.1",
     "@webiny/api-prerendering-service-so-ddb": "^5.22.1",
-    "@webiny/cli": "^5.22.1",
+    "@webiny/cli": "^0.3.0",
     "@webiny/handler-aws": "^5.22.1",
     "@webiny/project-utils": "^5.22.1"
   }

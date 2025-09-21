@@ -17,7 +17,7 @@
   "homepage": "https://github.com/webiny/webiny-js#readme",
   "dependencies": {
     "@webiny/cli": "^5.22.1",
-    "@webiny/cli-plugin-scaffold": "^5.22.1",
+    "@webiny/cli-plugin-scaffold": "^4.0.0",
     "case": "^1.6.3",
     "chalk": "^4.1.0",
     "execa": "^5.0.0",

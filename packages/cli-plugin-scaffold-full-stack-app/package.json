@@ -18,7 +18,7 @@
   "dependencies": {
     "@webiny/cli": "^5.22.1",
     "@webiny/cli-plugin-scaffold": "^5.22.1",
-    "@webiny/cli-plugin-scaffold-graphql-api": "^5.22.1",
+    "@webiny/cli-plugin-scaffold-graphql-api": "^5.13.0",
     "case": "^1.6.3",
     "chalk": "^4.1.0",
     "ncp": "^2.0.0",

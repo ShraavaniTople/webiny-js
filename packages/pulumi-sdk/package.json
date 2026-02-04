@@ -19,9 +19,9 @@
     "decompress": "^4.2.1",
     "download": "^5.0.3",
     "execa": "^4.0.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.23",
     "semver": "^7.3.5",
-    "tar": "^6.0.5"
+    "tar": "^7.5.7"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
